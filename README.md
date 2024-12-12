@@ -7,7 +7,6 @@ This project involves analyzing the Divvy bike sharing data for the first quarte
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Data Cleaning](#data-cleaning)
 - [Data Analysis](#data-analysis)
 - [Visualization](#visualization)
 - [Authors](#authors)
@@ -19,8 +18,7 @@ To run this project, ensure you have Python 3.x and the following packages insta
 ```bash
 pip install pandas numpy matplotlib seaborn
 
-# Usage
-Usage
+## Usage
 
 Load the data: The data for Q1 2019 and Q1 2020 is loaded into Pandas DataFrames.
 
@@ -42,8 +40,7 @@ Aggregate data: Summarizes ride length by user type.
 
 Visualization: Generates visualizations for number of rides and average ride duration by weekday and member type.
 
-# Features
-Features
+## Features
 
 Data Cleaning: Standardizes column names, drops unnecessary columns, and formats date columns.
 
@@ -51,15 +48,13 @@ Data Analysis: Calculates ride length and performs descriptive statistics.
 
 Visualization: Creates bar plots for ride count and average ride duration by weekday.
 
-# Data-Analysis
-Data Analysis
+## Data-Analysis
 
 Descriptive Analysis: Calculate mean, median, max, and min of ride lengths.
 
 Aggregate Data: Summarize ride length by member_casual.
 
-# Visualization
-Visualization
+## Visualization
 
 Number of Rides by Weekday:
 
@@ -74,7 +69,7 @@ plt.title('Average Ride Duration by Member Type and Weekday')
 plt.show()
 
 
-# Authors
+## Authors
 
 Aravi
 
