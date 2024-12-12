@@ -74,10 +74,13 @@ sns.barplot(data=avg_ride_time, x='weekday', y='ride_length', hue='member_casual
 plt.title('Average Ride Duration by Member Type and Weekday')
 plt.show()
 ```
-## capstone(average duration)
+## Capstone (average duration)
+
 ![img](https://github.com/Aravind-0707/Bike-Rides-Analysis/blob/main/capstone(average%20duration).png)
 
-https://github.com/Aravind-0707/Bike-Rides-Analysis/blob/main/capstone(average%20duration).png
+
+## Aapstone (no.of riders by rider type)
+![img](https://github.com/Aravind-0707/Bike-Rides-Analysis/blob/main/capstone%20(no.of%20riders%20by%20rider%20type).png)
 
 ## Authors
 
