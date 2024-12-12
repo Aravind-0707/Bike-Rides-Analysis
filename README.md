@@ -16,7 +16,10 @@ This project involves analyzing the Divvy bike sharing data for the first quarte
 To run this project, ensure you have Python 3.x and the following packages installed:
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+
+pip install pandas numpy matplotlib seaborn.
+
+```
 
 ## Usage
 
@@ -58,16 +61,19 @@ Aggregate Data: Summarize ride length by member_casual.
 
 Number of Rides by Weekday:
 
+``` python
 sns.barplot(data=ride_counts, x='weekday', y='number_of_rides', hue='member_casual', dodge=True)
 plt.title('Number of Rides by Member Type and Weekday')
 plt.show()
+```
 
-Average Ride Duration by Weekday
+Average Ride Duration by Weekday:
 
+```python
 sns.barplot(data=avg_ride_time, x='weekday', y='ride_length', hue='member_casual', dodge=True)
 plt.title('Average Ride Duration by Member Type and Weekday')
 plt.show()
-
+```
 
 ## Authors
 
