@@ -79,7 +79,7 @@ plt.show()
 ![img](https://github.com/Aravind-0707/Bike-Rides-Analysis/blob/main/capstone(average%20duration).png)
 
 
-## Aapstone (no.of riders by rider type)
+## Capstone (no.of riders by rider type)
 ![img](https://github.com/Aravind-0707/Bike-Rides-Analysis/blob/main/capstone%20(no.of%20riders%20by%20rider%20type).png)
 
 ## Authors
