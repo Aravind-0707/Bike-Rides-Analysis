@@ -74,12 +74,13 @@ sns.barplot(data=avg_ride_time, x='weekday', y='ride_length', hue='member_casual
 plt.title('Average Ride Duration by Member Type and Weekday')
 plt.show()
 ```
+## capstone(average duration)
+![img](https://github.com/Aravind-0707/Bike-Rides-Analysis/blob/main/capstone(average%20duration).png)
+
+https://github.com/Aravind-0707/Bike-Rides-Analysis/blob/main/capstone(average%20duration).png
 
 ## Authors
 
 Aravi
-
-This project was created on Wed Nov 27 20:07:55 2024.
-
 
 This `README.md` should give a clear overview of your project and guide users through installation, usage, and the various features. How does that look?
