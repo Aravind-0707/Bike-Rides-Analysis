@@ -84,6 +84,6 @@ plt.show()
 
 ## Authors
 
-Aravi
+Aravind
 
 This `README.md` should give a clear overview of your project and guide users through installation, usage, and the various features. How does that look?
